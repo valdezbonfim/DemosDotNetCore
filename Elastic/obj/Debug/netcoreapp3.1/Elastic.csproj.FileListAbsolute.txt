@@ -1,0 +1,14 @@
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/obj/Debug/netcoreapp3.1/Elastic.csprojAssemblyReference.cache
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/obj/Debug/netcoreapp3.1/Elastic.AssemblyInfoInputs.cache
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/obj/Debug/netcoreapp3.1/Elastic.AssemblyInfo.cs
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/obj/Debug/netcoreapp3.1/Elastic.csproj.CoreCompileInputs.cache
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/bin/Debug/netcoreapp3.1/Elastic.deps.json
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/bin/Debug/netcoreapp3.1/Elastic.runtimeconfig.json
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/bin/Debug/netcoreapp3.1/Elastic.runtimeconfig.dev.json
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/bin/Debug/netcoreapp3.1/Elastic.dll
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/bin/Debug/netcoreapp3.1/Elastic.pdb
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/bin/Debug/netcoreapp3.1/Elasticsearch.Net.dll
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/obj/Debug/netcoreapp3.1/Elastic.csproj.CopyComplete
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/obj/Debug/netcoreapp3.1/Elastic.dll
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/obj/Debug/netcoreapp3.1/Elastic.pdb
+/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/obj/Debug/netcoreapp3.1/Elastic.genruntimeconfig.cache

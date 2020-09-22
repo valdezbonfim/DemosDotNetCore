@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFpv5DGyJzsA/4QkI5XYQDCINZUhDQkY5ivMtXaFHthdnAA1LxArXwHDi9ZH5VOdibEAOq6g7+xjeoJk8dGmAg==",
+  "success": true,
+  "projectFilePath": "/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/Elastic.csproj",
+  "expectedPackageFiles": [
+    "/Users/valdez.bonfim/.nuget/packages/elasticsearch.net/7.9.0/elasticsearch.net.7.9.0.nupkg.sha512",
+    "/Users/valdez.bonfim/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/Users/valdez.bonfim/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/valdez.bonfim/.nuget/packages/system.diagnostics.diagnosticsource/4.5.1/system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{772D4488-4AEA-41E9-A487-2E79153025B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Elastic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Elastic/Program.cs">
+    <Files>
+      <File FileName="Elastic/Program.cs" Line="19" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemosNetCore" expanded="True">
+            <Node name="Elastic" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/Program.cs" relfile="Elastic/Program.cs" line="12" column="1" />
+      <Breakpoint file="/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/Program.cs" relfile="Elastic/Program.cs" line="31" column="1" />
+      <Breakpoint file="/Users/valdez.bonfim/Dev/DemosNetCore/Elastic/Program.cs" relfile="Elastic/Program.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
